@@ -101,5 +101,17 @@ header .header-black li a{
 }
 header #logotipo{
     position: absolute;
-    top: -30px;
+    top: 20px;
+}
+#menu{
+    margin: 26px 0;
+}
+#menu li{
+    display: inline-block;
+}
+
+#menu li a{
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 25px;
 }
