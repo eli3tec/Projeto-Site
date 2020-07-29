@@ -13,7 +13,93 @@ header .header-black{
     background-color: #000;
     height: 40px;
 }
+
+header .header-black li{
+    background-image: url("../img/clubs.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 4px;
+
+}
+
+header .header-black li.club-01{
+    background-position: 0px 0px;
+}
+header .header-black li.club-02{
+    background-position: -49px 0px;
+}
+
+header .header-black li.club-03{
+    background-position: -97px 0px;
+}
+header .header-black li.club-04{
+    background-position: -138px 0px;
+}
+header .header-black li.club-05{
+    background-position: -189px 0px;
+}
+header .header-black li.club-06{
+    background-position: -238px 0px;
+}
+
+header .header-black li.club-07{
+    background-position: -286px 0px;
+}
+header .header-black li.club-08{
+    background-position: -333px 0px;
+}
+header .header-black li.club-09{
+    background-position: -378px 0px;
+}
+header .header-black li.club-10{
+    background-position: -428px 0px;
+}
+
+header .header-black li.club-11{
+    background-position: -477px 0px;
+}
+header .header-black li.club-12{
+    background-position: -528px 0px;
+}
+header .header-black li.club-13{
+    background-position: -578px 0px;
+}
+header .header-black li.club-14{
+    background-position: -628px 0px;
+}
+
+header .header-black li.club-15{
+    background-position: -670px 0px;
+}
+header .header-black li.club-16{
+    background-position:-717px 0px;
+}
+header .header-black li.club-17{
+    background-position: -760px 0px;
+}
+header .header-black li.club-18{
+    background-position: -807px 0px;
+}
+header .header-black li.club-19{
+    background-position: -853px 0px;
+}
+header .header-black li.club-20{
+    background-position: -900px 0px;
+}
+
+header .header-black li.club-21{
+    background-position: -948px 0px;
+}
+header .header-black li.club-22{
+    background-position: -996px 0px;
+}
+header .header-black li a{
+    width: 32px;
+    height: 32px;
+    display: block;
+
+}
 header #logotipo{
     position: absolute;
-    top: -25px;
+    top: -30px;
 }
