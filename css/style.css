@@ -123,7 +123,7 @@ header #logotipo{
     height: 30px;
     line-height: 30px;
 }
-#menu li .search ::-webkit-input-placeholder{
+#menu li.search ::-webkit-input-placeholder{
     color: #fff;
 }
 
