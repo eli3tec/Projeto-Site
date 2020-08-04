@@ -156,3 +156,20 @@ header #logotipo{
     display: block;
     color: #fff;
     font-weight: bold;
+}
+news{
+    position: relative;
+    top: -110px;
+}
+#news h2{
+    color: #5e2799;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 48px;
+    text-transform: uppercase;
+    text-align: center;
+}
+#news hr{
+    border: #fde192 solid 2px;
+    width: 200px;
+    margin: 0 auto;
+}
