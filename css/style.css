@@ -109,20 +109,19 @@ header #logotipo{
     position: absolute;
     top: 20px;
 }
-.row{
-    float: right;
-}
+
 #menu{
-    margin: 26px 0;
-   
+    margin: 12px 0;
+    position: absolute;
+    right: 0;
 }
 #menu li{
     display: inline-block;
 }
-#menu li .search{
+#menu li.search{
     width: 182px;
 }
-#menu li .search input{
+#menu li.search input{
     background-color: #5c2d90;
     color: #fff;
     border: none;
